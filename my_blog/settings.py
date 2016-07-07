@@ -9,7 +9,7 @@ ALLOWED_HOSTS = choose_settings.ALLOWED_HOSTS
 
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
-    ('laike9m', 'laike9m@gmail.com'),
+    ('david', 'chonghui.ma@gmail.com'),
 )
 
 MANAGERS = ADMINS
